@@ -1,5 +1,6 @@
-## Hi,👋 I'm Ayush Mishra, 
-### As a full-stack developer, I am dedicated to turning ideas into innovative web applications.
+## I'm Ayush Mishra, a Passionate Full-Stack Developer 🚀
+Turning Ideas into Innovative Web Applications 💡🌐
+
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2341BDF5.svg?logo=dev.to&logoColor=white)](https://dev-ayush.netlify.app/)
