@@ -1,5 +1,4 @@
-## Hi,👋 I'm Ayush Mishra,
-## As a full-stack developer, I am dedicated to turning ideas into innovative web applications.
+## Hi,👋 I'm Ayush Mishra, As a full-stack developer, I am dedicated to turning ideas into innovative web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-mishra-809385215) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayusham001) 
